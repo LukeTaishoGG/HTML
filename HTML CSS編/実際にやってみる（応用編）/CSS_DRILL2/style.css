@@ -1,0 +1,13 @@
+.No1 {
+  display: flex;
+}
+
+.No2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.No3 {
+  display: flex;
+  justify-content: center;
+}

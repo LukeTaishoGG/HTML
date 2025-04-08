@@ -1,0 +1,121 @@
+.text1 {
+  font-size: 25px;
+}
+
+.textw {
+  font-weight: bold;
+}
+
+.textff {
+  font-family: Fantasy;
+}
+
+.text-l {
+  text-align: left;
+}
+
+.text-r {
+  text-align: right;
+}
+
+.text-c {
+  text-align: center;
+}
+
+.under-l {
+  text-decoration: underline;
+}
+
+.text-ls {
+  letter-spacing: 30px;
+}
+
+.fnt-c {
+  color: #FFDC00
+}
+
+.back-c {
+  background-color:aquamarine;
+}
+
+.back-i {
+  background-image: url("https://booth.pximg.net/6c268c00-4125-4227-905b-e0a529f02813/i/4364971/68f8f68f-1dd8-409a-babf-11ca8c2b186d_base_resized.jpg");
+}
+
+.back-norep {
+  background-repeat: no-repeat;
+}
+
+.wi-th {
+  width: 200px;
+  height: 400px;
+  margin: 20px 40px;
+  padding: 30px;
+}
+
+.bder {
+  border: solid;
+  border-width:thin medium thick 3px;
+}
+
+.scroll-box {
+  overflow: auto;
+  font-size: 40px;
+  width: 200px;
+  height: 200px;
+}
+
+
+.dsply {
+  display: none;
+}
+
+.picsize {
+  height: 300px;
+}
+
+.zettai-1 {
+  width: 300px;
+  height: auto;
+  position: absolute;
+  top: 10;
+  left: 10;
+  z-index: 1
+
+}
+
+.zettai-2 {
+  width: 300px;
+  height: auto;
+  position: absolute;
+  top: 20;
+  left: 20;
+  z-index: 2;
+}
+
+.list-square {
+  list-style-type: square;
+}
+
+.yonyon {
+  border-collapse: collapse;
+  border-spacing: 70px;
+}
+
+.yonyon td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+.clickbox {
+  cursor: pointer;
+}
+
+.clickbox:hover {
+  background-color: blue;
+  color: white;
+}
+
+
+
